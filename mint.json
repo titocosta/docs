@@ -15,6 +15,7 @@
       "to": "#07C983"
     }
   },
+  "openapi": "https://www.openindex.ai/index.yaml",
   "topbarLinks": [
     {
       "name": "Support",
@@ -66,7 +67,13 @@
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/delete",
+        "retrieve-user-chats",
+        "send-a-message-to-an-ai-agent-or-collection",
+        "retrieve-agents-authored-by-the-user",
+        "create-or-update-an-agent",
+        "retrieve-user-collections",
+        "create-or-update-a-collection"
       ]
     }
   ],
